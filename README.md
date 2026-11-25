@@ -6,7 +6,7 @@ derleme numarasıyla (`pubspec.yaml` → `version: <ad>+<kod>`, kod kısmı)
 karşılaştırır. Depo **public** olmak zorunda: raw okuma kimlik doğrulamasız.
 
 Okunan adres:
-`https://raw.githubusercontent.com/adaonder/star_isles_config/main/version.json`
+`https://raw.githubusercontent.com/sweetlandapp/star_isles_config/main/version.json`
 
 ## Alanlar
 
